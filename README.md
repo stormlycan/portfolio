@@ -1,2 +1,2 @@
 # portfolio
-## This is a portfolio project for myself
+This is a portfolio project for myself
